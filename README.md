@@ -8,7 +8,7 @@ For my capstone project I decided to recreate the childrens memory card game 'Pa
 Before running the game please install packages Pandas and Rich in the terminal:
  - pip3 install pandas
  - pip3 install rich
-------------------------------
+
 
 
 
