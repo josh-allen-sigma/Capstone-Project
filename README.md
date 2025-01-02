@@ -1,5 +1,4 @@
 # Capstone Project Pairs Memory Game
-------------------------------
 For my capstone project I decided to recreate the childrens memory card game 'Pairs'.
 - The aim of the game is to match all of the pairs of letters together. 
 - The game will ask you to enter two different numbers from the display, if the two numbers equivalent letters were a match then they will stay 
